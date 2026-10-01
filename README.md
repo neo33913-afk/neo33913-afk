@@ -54,22 +54,18 @@ Database  MySQL · MariaDB
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,bootstrap,mysql,git,github,vscode&perline=11" alt="Tech stack" />
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
@@ -89,30 +85,14 @@ Database  MySQL · MariaDB
 
 ---
 
-## GitHub Stats
+## Focus
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=neo33913-afk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0d1117&title_color=c4b5fd&icon_color=ec4899&text_color=e5e7eb" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo33913-afk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=c4b5fd&text_color=e5e7eb" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=neo33913-afk&theme=tokyonight&hide_border=true&background=0D1117&ring=EC4899&fire=A78BFA&currStreakLabel=EC4899" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=neo33913-afk&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12" alt="Trophies" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neo33913-afk&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0d1117&color=a78bfa&line=ec4899&point=ffffff" width="100%" alt="Activity graph" />
+<img src="https://img.shields.io/badge/Laravel-main%20stack-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Vue.js-learning-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/MySQL-database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Git-version%20control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 </div>
 
@@ -178,7 +158,7 @@ PHP and MariaDB project, from form to database.
 
 - Building small web apps with **Laravel**
 - Practicing **Vue.js** for interactive pages
-- Keeping commits small so the graph stays active
+- Pushing small commits so the contribution graph stays active
 - Open to school projects and simple collaborations
 
 ---
